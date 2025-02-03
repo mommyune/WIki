@@ -1,2 +1,2 @@
-# [Wiki](https://github.com/mommyune/wiki/wiki)
-wiki with stuff that use more then once in my life
+# [Wiki](https://github.com/mommyune/Win-Wiki/wiki)
+Just a wiki I made for windows commands I use once or twice.
